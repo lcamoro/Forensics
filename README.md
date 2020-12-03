@@ -1,7 +1,7 @@
 # Forensics
 Python3 forensics and monitoring tools
 
-# Prefetch_v3.py
+# Prefetch_v3
 Based on https://github.com/PoorBillionaire/Windows-Prefetch-Parser
 
 Main Features:
