@@ -17,3 +17,13 @@ Usage:
 * python prefetch_v3.py -d c:\windows\prefetch\
 
 See [docs](https://github.com/PoorBillionaire/Windows-Prefetch-Parser)
+
+## Digito_Verificador_v3
+A la hora de hacer investigaciones sobre un vehículo, se les solicitará una serie de datos como la patente o dominio y el "Dígito verificador". Al escuchar dígito verificador, es muy probable que se esté preguntando cómo obtenerlo, ya que por lo general las patentes vehiculares solo muestran una cadena de texto alfanumérica sin dígito verificador.  Aqui, una version en Python 3 para calcularlo y obtenerlo.
+
+Basado en:
+[Agip Digito Verificador](https://chrome.google.com/webstore/detail/agip-digito-verificador/mcbihanjokabdgcbickiihbcehjbefkp)
+
+
+Modo de Uso:
+* python digito_verificador_v3.py
