@@ -78,8 +78,6 @@ def digito_verificador(codigo):
 
 
 def main():
-    pares = 0
-    impares = 0
     letrasPatente = {"A":"14", "B":"01", "C":"00", "D":"16", "E":"05", "F":"20", "G":"19", "H":"09", "I":"24", "J":"07", "K":"21", "L":"08", "M":"04", "N":"13", "O":"25", "P":"22", "Q":"18", "R":"10", "S":"02", "T":"06", "U":"12", "V":"23", "W":"11", "X":"03", "Y":"15", "Z":"17"}
     pat = input("Nro. Dominio/Patente > ")
     patente = pat.upper().replace(" ", "")
